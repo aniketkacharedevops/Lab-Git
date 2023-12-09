@@ -3,3 +3,6 @@ def sum():
 
 def sub():
     pass
+
+def mul():
+    pass
